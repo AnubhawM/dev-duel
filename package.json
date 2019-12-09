@@ -15,7 +15,7 @@
     "express": "^4.13.3",
     "express-validation": "^1.0.2",
     "http-status": "^1.2.0",
-    "morgan": "^1.8.0",
+    "morgan": "^1.9.1",
     "resource-router-middleware": "^0.6.0"
   },
   "devDependencies": {
